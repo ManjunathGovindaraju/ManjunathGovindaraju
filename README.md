@@ -21,7 +21,15 @@
 
 ## 🧑‍💻 About Me
 
-I'm a full-stack engineer based in **Pleasanton, CA**, passionate about building scalable applications and solving real engineering problems. I work across the entire stack — from **React frontends** to **Java/Node.js backends**, **cloud infrastructure**, and **DevOps pipelines**.
+I architect and build production-grade multi-agent AI platforms that enable natural language intelligence across complex enterprise systems.
+
+As a Principal Software Engineer, I design and lead development of agentic AI systems using ReAct-style orchestration, structured tool invocation, and protocol-driven integrations. My work focuses on building reusable AI platform foundations that scale across teams and domains rather than one-off LLM features.
+
+I have designed multi-agent orchestration frameworks using Supervisor, ReAct execution, and Validator patterns to enable structured plan to execute to validate workflows. I have integrated more than one hundred domain-specific tools across distributed microservices using standardized tool protocols. My platforms enable natural language access to more than fifty-seven million records across heterogeneous SQL and NoSQL systems.
+
+Through cost-aware inference strategies and two-stage processing pipelines, I reduced LLM token usage by approximately ninety-five percent while maintaining full data coverage and analytical fidelity. I delivered ten to one hundred times performance improvements by re-architecting data access layers from REST-based integrations to asynchronous direct database pipelines. These systems operate on Kubernetes with GitOps workflows, distributed tracing, and zero-downtime production releases.
+
+My areas of focus include multi-agent reasoning systems, tool-driven LLM execution, deterministic execution controls, distributed systems at scale, and cost-efficient AI infrastructure. I am particularly interested in advancing reliable and extensible agent platforms that operate safely and predictably in production environments.
 
 - 🔭 Currently working on: React-based applications and cloud-native architectures
 - 🌱 Exploring: AI integrations with Claude API, MCP servers, and LLM-powered tooling
@@ -97,9 +105,9 @@ I'm a full-stack engineer based in **Pleasanton, CA**, passionate about building
 
 I'm always open to interesting conversations, collaborations, and new opportunities.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manjunathgovindaraju/)
 - 🌐 [Portfolio](https://manjunathg.github.io)
-- 📧 [Email](mailto:YOUR_EMAIL@gmail.com)
+- 📧 [Email](mailto:manjunath.govindaraju@gmail.com)
 
 ---
 
